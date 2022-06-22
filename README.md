@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Veetivili. I'm studying bachelor degree in ICT-engineering at JAMK.
-- 👀 I’m interested in software developing, loving both front- and back-end.
-- 🌱 I’m currently learning about datanetworks and project management.
+- 👀 I’m interested in software developing, loving both front-, and backend.
+- 🌱 I’m currently working with conduit open-source forum, developing it to fit under WIMMA Lab brand visually and functionally.
 
 
 <!---
